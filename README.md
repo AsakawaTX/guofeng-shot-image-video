@@ -50,4 +50,4 @@ guofeng-shot-image-video/
 
 ## 来源
 
-skill 创建者：浅川玩AI，全平台同名
+skill 创建者：浅川同学

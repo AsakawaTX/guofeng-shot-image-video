@@ -94,4 +94,4 @@ Single continuous shot, no cuts. Keep the original composition, characters, cost
 - 视频动作参考：`references/video-motion.md`
 
 ## 来源
-- skill创建者：浅川玩AI，全平台同名
+- skill创建者：浅川同学
